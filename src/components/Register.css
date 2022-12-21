@@ -1,0 +1,70 @@
+.register-root {
+    width: 100%;
+    height: 100%;
+}
+
+
+.register-container {
+    margin-left: 30%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 40%;
+    /* max-width: 40rem; */
+    background: linear-gradient(135deg, #fbe94d ,  #ee5f1b);
+    border-radius: 1.5rem;
+    height: 600px;
+}
+.register-title { 
+    text-align: center;
+    padding-top: 10px;
+    color: black;
+    margin-bottom: 5px;
+    font-size: 48px;
+}
+
+h5{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 24px;
+
+}
+
+form {
+    display: block;
+    /* margin-left: 500px; */
+    width: 300px;
+    margin-left: 20px;
+    
+
+}
+
+form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 50%;
+}
+
+form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px black;
+    margin-left: 50%;
+}
+
+input[type = "button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50%;
+    border: none;
+    background-color: #2F9CF1;
+    font-size: 18px;
+}
+
+.switch-login {
+    font-size: 18px;
+    text-align: center;
+}

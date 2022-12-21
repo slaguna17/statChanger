@@ -1,0 +1,75 @@
+                        {/* Mario */}
+                        <Character
+                            src="images/mario.webp"
+                            text="Mario"
+                            label="Adventure"
+                            path='/characters'
+                        />
+                        {/* Luigi */}
+                        <Character
+                            src="images/luigi.webp"
+                            text="Luigi"
+                            label="Adventure"
+                            path='/services'
+                        />
+
+                    
+                        {/* Bowser */}
+                        <Character
+                        src='images/bowser.png'
+                        text="Bowser"
+                        label='Mystery'
+                        path='/services'
+                        />
+                        {/* Yoshi */}
+                        <Character
+                        src='images/yoshi.webp'
+                        text='Yoshi'
+                        label='Adventure'
+                        path='/products'
+                        />
+                    
+                    
+                        {/* DK */}
+                        <Character
+                        src='images/dk.webp'
+                        text="Donkey Kong"
+                        label='Mystery'
+                        path='/services'
+                        />
+                        {/* Peach */}
+                        <Character
+                        src='images/peach.webp'
+                        text='Princess Peach'
+                        label='Adventure'
+                        path='/products'
+                        />
+                        {/* Toad */}
+                        <Character
+                        src='images/toad.webp'
+                        text="Toad"
+                        label='Mystery'
+                        path='/services'
+                        />
+                        {/* Wario */}
+                        <Character
+                        src='images/wario.webp'
+                        text='Wario'
+                        label='Adventure'
+                        path='/products'
+                        />
+                        {/* Waluigi */}
+                        <Character
+                        src='images/waluigi.webp'
+                        text="Waluigi"
+                        label='Mystery'
+                        path='/services'
+                        />
+                        {/* Rosalina */}
+                        <Character
+                        src='images/rosalina.webp'
+                        text='Rosalina'
+                        label='Adventure'
+                        path='/products'
+                        />
+                </div>
