@@ -16,14 +16,15 @@ It is only a frontend project made in React to show quality in CSS and Frontend 
 
 *   HTML
 *   CSS
-*   JavaScript (Potentially a framework like React, Vue, or Angular if you used one)
+*   JavaScript
 *   React
 
 ## Setup/Installation
 
 1.  Clone the repository: `git clone https://github.com/slaguna17/StatChanger.git`
 2.  Navigate to the project directory: `cd .\statChanger\mario-strickers\`
-3.  Open the `index.html` file in your web browser.
+3.  Install Node modules with `npm install`
+4.  Run the project with `npm start` in the localhost
 
 ```bash
 npm install
