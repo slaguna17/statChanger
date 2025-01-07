@@ -1,0 +1,30 @@
+:root{
+    --filling: 50%
+}
+
+.bar-container {
+    height: 40px;
+    width: 100%;
+    /* background-color: #e0e0de; */
+    background-color: black;
+    border-radius: 50;
+    margin: 8px;
+    box-shadow: 5px 2px;
+  }
+  
+  .bar-filler{
+    height: 100%;
+    width: var(--filling);
+    background-color: #ee5f1b;
+    border-radius: inherit;
+    text-align: right;
+  }
+
+  .bar-label {
+    padding: 5;
+    text-shadow: 1px 1px;
+    margin-top: 5px;
+    float: right;
+    color: white;
+    font-weight: bold;
+  }
